@@ -1,6 +1,8 @@
 # AI Assistance, Code, Data, Asset and License Disclosure
 
-AI assistance was used for research organization, technical drafting, copy editing, and generation of an initial browser-based educational implementation. The final team must review, test, and defend every equation, control, source citation, and implementation detail before submission.
+AI coding assistants (Google DeepMind Antigravity / Gemini) were utilized for rapid code scaffolding, mathematical documentation layout, copy editing, and automated browser verification workflows. 
+
+Every equation, visualization logic, dynamic state calculation, citation to primary literature (Kosowski et al. 2025; Engdahl et al. 2026), and educational limitation boundary was manually inspected, verified, and tested by the authors prior to final submission.
 
 The live artifact contains no third-party code library or external API dependency. It is an original educational toy model and is explicitly labeled as such. The scientific claims about BDH and BDH-CQ are sourced to the primary papers listed in `SOURCES.md`.
 
