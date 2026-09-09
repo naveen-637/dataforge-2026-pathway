@@ -2,8 +2,7 @@
 
 ## Live Demo
 
-- **Public URL**: `https://naveen-637.github.io/dataforge-2026-pathway/`
-  *(Active once GitHub Pages is enabled under Repository Settings → Pages → Branch: `main` / `root`)*
+- **Public URL**: [https://naveen-637.github.io/dataforge-2026-pathway/](https://naveen-637.github.io/dataforge-2026-pathway/)
 - **Local Preview**: Open `index.html` directly in any standard modern web browser (no local server or build step required).
 
 ## One-sentence claim
