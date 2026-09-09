@@ -1,0 +1,20 @@
+Project title:
+Recurrent Memory Lab: Learning from Demonstrations Without Growing the State
+
+Selected topic:
+In-Context Learning with Recurrent Memory
+
+One-sentence claim:
+Adding demonstrations can be absorbed into a fixed-size recurrent state, but overlapping evidence can interfere and cause retrieval errors.
+
+Audience:
+Advanced undergraduate / early graduate data-science and machine-learning learners familiar with vectors, dot products, and basic Transformer attention.
+
+Artifact pitch:
+A browser-native interactive laboratory where learners write demonstrations into a fixed 5x5 recurrent associative state, query that state, see ground truth beside the estimate, and deliberately induce interference by increasing key similarity and adding a conflicting demonstration.
+
+BDH-CQ connection:
+BDH-CQ is a 2026 Pathway research model combining in-context learning with recurrent latent reasoning. Its report describes inference-time inputs continuously updating recurrent memory, followed by iterative latent computation for the query without verbalizing intermediate reasoning. The demo teaches the state-update and retrieval portion at toy scale, and labels the abstraction boundary explicitly.
+
+Evidence boundary:
+The live computation is synthetic and independent. It is not an official BDH/BDH-CQ checkpoint and makes no benchmark claim. Research claims are sourced to primary papers in SOURCES.md.
